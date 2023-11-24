@@ -1,4 +1,5 @@
-# JavaScript-Resource
+# JavaScript-Resource 
+## Live Demo:- https://gmmamunh.github.io/JavaScript-Resource/
 1. [JavaScript Numbers](https://www.w3schools.com/js/js_numbers.asp)
 2. [JavaScript Number Methods](https://www.w3schools.com/js/js_numbers.asp)
 3. [JavaScript Strings](https://www.w3schools.com/js/js_strings.asp)
